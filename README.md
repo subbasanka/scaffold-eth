@@ -1,2 +1,2 @@
-# scaffold-eth
+# scaffold-eth-DiceGame
 Block chain application
